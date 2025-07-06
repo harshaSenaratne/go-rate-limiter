@@ -10,11 +10,17 @@
 ![tokenbucket-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5b1acff6-fe55-4e85-bf24-cb82b26fc89a)
 
 - Per-client rate limiting
+  
 ![perclientrl-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/453aebfb-7d96-4441-88db-f1766167e625)
 
 - Using tollbooth as middleware
 
 ![tollbooth-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3c61c48e-9245-492f-8ef8-bfb39e7614eb)
+
+Screenshot
+
+<img width="1440" alt="Screenshot 2025-07-07 at 1 08 01 AM" src="https://github.com/user-attachments/assets/ab25e15b-d84c-4078-a887-f829e6fd1793" />
+
 
 ## To Run
 
